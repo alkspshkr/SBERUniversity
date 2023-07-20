@@ -51,10 +51,10 @@
 
 ![VScodeSet.png](VScodeSet.png)
 
-![VScodeSuccess.png](VScodeSuccess.png)
+![VScodeSuccess.png](VSCodeSuccess.png)
 
 - Посмотреть доступные соединения можно слева, выбрав расширение **SQLTools**:
 
-![VSCodeList.png](VSCodeList.png)
+![VSCodeList.png](VsCodeList.png)
 
 Готово! Теперь можно работать с БД с помощью VSCode =)
